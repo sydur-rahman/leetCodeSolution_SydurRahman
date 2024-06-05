@@ -1,6 +1,11 @@
 # LeetCode Solutions in Java
 
-This repository contains my solutions to various LeetCode problems. Each solution is implemented in Java and organized into different packages based on the difficulty level of the problems.
+This repository contains my solutions to various LeetCode problems. Each solution is implemented in Java and organised into different packages based on the difficulty level of the problems.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sydur-rahman/)
+- [LeetCode](https://leetcode.com/sydurrahman/)
 
 ## Table of Contents
 

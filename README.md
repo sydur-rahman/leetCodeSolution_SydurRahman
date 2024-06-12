@@ -19,6 +19,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [TwoSum_001.java](src/com/leetcode/easy/TwoSum_001.java) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Palindrome_009.java](src/com/leetcode/easy/Palindrome_009.java) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [BinarySearch_704.java](src/com/leetcode/easy/BinarySearch_704.java) |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [MissingPositiveNumber_1539.java](src/com/leetcode/easy/MissingPositiveNumber_1539.java) |
 
 ## Medium
 

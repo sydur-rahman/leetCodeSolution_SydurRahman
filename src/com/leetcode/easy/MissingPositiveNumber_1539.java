@@ -1,7 +1,4 @@
 package com.leetcode.easy;
-
-import java.util.ArrayList;
-
 public class MissingPositiveNumber_1539 {
     public static void main(String[] args) {
         int arr[]= {2,3,4,7,11};

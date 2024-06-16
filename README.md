@@ -23,6 +23,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ## Medium
 
-| # | Problem | Solution |
-|---|---------|----------|
+| #   | Problem | Solution | Note |
+|-----|---------|----------|------|
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [PeakIndexInAMountain_852.java](src/com/leetcode/medium/PeakIndexInAMountain_852.java) |
+| 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [findFirstLastPositionOfElement_034.java](src/com/leetcode/medium/findFirstLastPositionOfElement_034.java) | Used BS Lower and Upper Bound Method | 
